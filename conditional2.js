@@ -4,4 +4,4 @@ if (name != "Bruce") {
 } 
 else {
     console.log("Hola, Bruce!");
-}
+}//console output: Hola, Bruce!
